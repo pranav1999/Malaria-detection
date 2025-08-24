@@ -1,5 +1,2 @@
 # Malaria-detection
-Malaria detction using machine learning <br>
-<h2>Download Data Sets form these links</h2>
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXZueHZmMWQzRmhOcHdBOVNqZG5CaWh3MFdPUXxBQ3Jtc0tucUtkMmpxOHFuazlJUWp0b0Z4TzlpRVlTUnpRQWxhYnd0NjNmenJCWHFqdnREeFVQLVUxT3Y5UDRsV285Tjg0YzNxeWpPRGFJa3BiMVRjeEE4WFNFZEpJc0w3alRELVVkcm94SVJvdzQyakJEaHpwTQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz%2Fview%3Fusp%3Dsharing <br>
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1dOSnQzcmZMbXZuSWREUjdSWHhOV3BEZ2hJUXxBQ3Jtc0trS2h1cjNYcG5VTDJKcHpUU0taTWs1b29QbnRKbHBJajBfV2xaRnRUSjVfUk45TERyLWFiamtrT2NqMWdfLXJiZWI5VkhycC1pT2JSUHNDdnhiZnZUcWp2NlYwOExpOGVJaFNuU3lDckZ3UExhN190cw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1azIYjzLFCY7qp7-NjgSBvakbGgPvQlRf%2Fview%3Fusp%3Dsharing
+Malaria detction using machine learning
